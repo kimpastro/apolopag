@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["kimpastro@gmail.com"]
 
   spec.summary       = "SDK Integration with Apolopag Payment"
-  spec.description   = "TODO: Write a longer description or delete this line."
+  spec.description   = "SDK Integration with Apolopag Payment"
   spec.homepage      = "https://payment.apolopag.com"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
